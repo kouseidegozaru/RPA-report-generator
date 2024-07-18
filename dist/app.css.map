@@ -1,0 +1,1 @@
+{"version":3,"file":"app.css","mappings":";;;AAAA;IACI,uBAAuB;IACvB,kBAAkB;EACpB,C","sources":["webpack://rpa-report-generator/./src/web/App.css"],"sourcesContent":[".container {\r\n    font-family: sans-serif;\r\n    text-align: center;\r\n  }"],"names":[],"sourceRoot":""}
