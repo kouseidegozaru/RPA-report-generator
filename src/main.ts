@@ -1,6 +1,6 @@
 import path from 'node:path';
 import { BrowserWindow, app, ipcMain } from 'electron';
-import  { readJSONFiles, extractDataTable } from './modules/load_log';
+import  { readJSONFiles, extractDataTable } from './modules/log/load';
 
 
 let runningLogs;
